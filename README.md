@@ -3,8 +3,7 @@
 ````md
 # Asynchronous User Credit Payment Backend
 
-A backend service for managing user credit balances and processing payment requests asynchronously using RabbitMQ workers.
-
+A backend service for managing user credit balances and processing payment requests
 Built with scalable backend architecture principles including:
 
 - Async job processing
